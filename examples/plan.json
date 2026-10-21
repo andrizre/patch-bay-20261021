@@ -1,0 +1,180 @@
+{
+  "title": "Panel Quilt Satu Kain",
+  "unit": "mm",
+  "stock": {
+    "width": 300,
+    "height": 250,
+    "margin": 8,
+    "gap": 3
+  },
+  "seam": 6,
+  "placements": [
+    {
+      "sheet": 1,
+      "piece_id": "strip",
+      "instance": 1,
+      "x": 8,
+      "y": 8,
+      "width": 112,
+      "height": 37,
+      "rotated": false
+    },
+    {
+      "sheet": 1,
+      "piece_id": "strip",
+      "instance": 2,
+      "x": 123,
+      "y": 8,
+      "width": 112,
+      "height": 37,
+      "rotated": false
+    },
+    {
+      "sheet": 1,
+      "piece_id": "strip",
+      "instance": 3,
+      "x": 8,
+      "y": 48,
+      "width": 112,
+      "height": 37,
+      "rotated": false
+    },
+    {
+      "sheet": 1,
+      "piece_id": "strip",
+      "instance": 4,
+      "x": 123,
+      "y": 48,
+      "width": 112,
+      "height": 37,
+      "rotated": false
+    },
+    {
+      "sheet": 1,
+      "piece_id": "panel",
+      "instance": 1,
+      "x": 8,
+      "y": 88,
+      "width": 72,
+      "height": 92,
+      "rotated": true
+    },
+    {
+      "sheet": 1,
+      "piece_id": "panel",
+      "instance": 2,
+      "x": 83,
+      "y": 88,
+      "width": 72,
+      "height": 92,
+      "rotated": true
+    },
+    {
+      "sheet": 1,
+      "piece_id": "panel",
+      "instance": 3,
+      "x": 158,
+      "y": 88,
+      "width": 72,
+      "height": 92,
+      "rotated": true
+    },
+    {
+      "sheet": 2,
+      "piece_id": "panel",
+      "instance": 4,
+      "x": 8,
+      "y": 8,
+      "width": 72,
+      "height": 92,
+      "rotated": true
+    },
+    {
+      "sheet": 2,
+      "piece_id": "panel",
+      "instance": 5,
+      "x": 83,
+      "y": 8,
+      "width": 72,
+      "height": 92,
+      "rotated": true
+    },
+    {
+      "sheet": 2,
+      "piece_id": "panel",
+      "instance": 6,
+      "x": 158,
+      "y": 8,
+      "width": 72,
+      "height": 92,
+      "rotated": true
+    },
+    {
+      "sheet": 1,
+      "piece_id": "kotak",
+      "instance": 1,
+      "x": 233,
+      "y": 88,
+      "width": 52,
+      "height": 52,
+      "rotated": false
+    },
+    {
+      "sheet": 2,
+      "piece_id": "kotak",
+      "instance": 2,
+      "x": 233,
+      "y": 8,
+      "width": 52,
+      "height": 52,
+      "rotated": false
+    },
+    {
+      "sheet": 1,
+      "piece_id": "kotak",
+      "instance": 3,
+      "x": 8,
+      "y": 183,
+      "width": 52,
+      "height": 52,
+      "rotated": false
+    },
+    {
+      "sheet": 1,
+      "piece_id": "kotak",
+      "instance": 4,
+      "x": 63,
+      "y": 183,
+      "width": 52,
+      "height": 52,
+      "rotated": false
+    },
+    {
+      "sheet": 1,
+      "piece_id": "kotak",
+      "instance": 5,
+      "x": 118,
+      "y": 183,
+      "width": 52,
+      "height": 52,
+      "rotated": false
+    },
+    {
+      "sheet": 1,
+      "piece_id": "kotak",
+      "instance": 6,
+      "x": 173,
+      "y": 183,
+      "width": 52,
+      "height": 52,
+      "rotated": false
+    }
+  ],
+  "summary": {
+    "sheets": 2,
+    "placements": 16,
+    "cut_area_mm2": 72544,
+    "stock_area_mm2": 150000,
+    "utilisation_ratio": 0.48362666666666665
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Panel Quilt Satu Kain",
+  "stock": {"width": 300, "height": 250, "margin": 8, "gap": 3},
+  "seam": 6,
+  "pieces": [
+    {"id": "panel", "width": 80, "height": 60, "quantity": 6, "rotate": true},
+    {"id": "strip", "width": 100, "height": 25, "quantity": 4, "rotate": false},
+    {"id": "kotak", "width": 40, "height": 40, "quantity": 6, "rotate": true}
+  ]
+}

@@ -1,0 +1,17 @@
+sheet,piece_id,instance,x_mm,y_mm,width_mm,height_mm,rotated
+1,strip,1,8,8,112,37,false
+1,strip,2,123,8,112,37,false
+1,strip,3,8,48,112,37,false
+1,strip,4,123,48,112,37,false
+1,panel,1,8,88,72,92,true
+1,panel,2,83,88,72,92,true
+1,panel,3,158,88,72,92,true
+1,kotak,1,233,88,52,52,false
+1,kotak,3,8,183,52,52,false
+1,kotak,4,63,183,52,52,false
+1,kotak,5,118,183,52,52,false
+1,kotak,6,173,183,52,52,false
+2,panel,4,8,8,72,92,true
+2,panel,5,83,8,72,92,true
+2,panel,6,158,8,72,92,true
+2,kotak,2,233,8,52,52,false
